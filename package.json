@@ -2,7 +2,7 @@
   "name": "thales",
   "main": "src/index.js",
   "engines": {
-    "node": "16.x"
+    "node": "14.x"
   },
   "scripts": {
     "start": "cross-env TERMINAL=TRUE AGENT=Thales SPEAKER=Eliza src/index.js",
